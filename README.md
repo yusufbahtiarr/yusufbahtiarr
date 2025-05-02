@@ -19,8 +19,8 @@ I'm a web developer who enjoys building clean, responsive, and user-friendly web
 ---
 
 ### 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/yusuf-bahtiarr)  
+- LInkedIn: [LinkedIn](https://www.linkedin.com/in/yusuf-bahtiarr)  
 - GitHub: [@yusufbahtiarr](https://github.com/yusufbahtiarr)
 
 ### 🌍 Website
-Github Page : [@yusufbahtiarr](https://yusufbahtiarr.github.io/yusuf.github.io/)
+Github Pages: [@yusufbahtiarr](https://yusufbahtiarr.github.io/yusuf.github.io/)
