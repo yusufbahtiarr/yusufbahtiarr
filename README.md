@@ -7,7 +7,7 @@ I'm a web developer who enjoys building clean, responsive, and user-friendly web
 
 ### 🛠️ Tech Stack  
 - 🌍 Frontend: `HTML`, `CSS`, `JavaScript`, `ReactJS`  
-- 🧰 Backend: `PHP`, 'NodeJS',
+- 🧰 Backend: `PHP`, `NodeJS`, `Golang`
 - 🎨 Styling: `Tailwind CSS`, `Bootstrap`  
 - 🛠️ Tools: `VSCode`, `Git`, `GitHub`, `DBeaver`  
 
