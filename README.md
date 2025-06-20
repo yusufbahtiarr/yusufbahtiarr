@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Yusuf Bahtiar  
-### 💻 Frontend & Web Developer | 🖥️ React Enthusiast | 🌐 PHP Coder
+### 💻 Frontend & Web Developer | 🖥️ React Enthusiast | 🌐 Golang
 
 I'm a web developer who enjoys building clean, responsive, and user-friendly web applications. I focus on frontend development with **ReactJS**, and also work with **PHP** for backend logic. I'm always learning and exploring better ways to build for the web.
 
@@ -7,7 +7,7 @@ I'm a web developer who enjoys building clean, responsive, and user-friendly web
 
 ### 🛠️ Tech Stack  
 - 🌍 Frontend: `HTML`, `CSS`, `JavaScript`, `ReactJS`  
-- 🧰 Backend: `PHP`, `NodeJS`, `Golang`
+- 🧰 Backend: `NodeJS`, `Golang`,`PHP`,
 - 🎨 Styling: `Tailwind CSS`, `Bootstrap`  
 - 🛠️ Tools: `VSCode`, `Git`, `GitHub`, `DBeaver`  
 
