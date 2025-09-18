@@ -23,4 +23,5 @@ I'm a web developer who enjoys building clean, responsive, and user-friendly web
 - GitHub: [@yusufbahtiarr](https://github.com/yusufbahtiarr)
 
 ### 🌍 Website
-Github Pages: [@yusufbahtiarr](https://yusufbahtiarr.github.io/yusuf.github.io/)
+Github Pages: [@yusufbahtiarr](https://yusufbahtiarr.github.io)
+
