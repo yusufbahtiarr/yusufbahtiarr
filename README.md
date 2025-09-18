@@ -1,4 +1,4 @@
-# Hi, I'm Yusuf Bahtiar 👋  
+# Hi, I'm Yusuf Bahtiar
 
 💻 **Fullstack Web Developer** | ReactJS & Golang Enthusiast  
 
@@ -72,3 +72,4 @@ A digital wallet built with **HTML, CSS, and JavaScript**.
 - 🐙 [GitHub](https://github.com/yusufbahtiarr)  
 - 🌐 [Portfolio](https://yusufbahtiarr.github.io)  
 - 📧 [Email](mailto:yusufbdev@gmail.com)  
+
